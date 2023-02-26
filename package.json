@@ -1,0 +1,25 @@
+{
+  "name": "tri_footer",
+  "version": "1.0.0",
+  "description": "triforge js web footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taishawnk/Tri_footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "taishawn <taishawnking1@yahoo.com> (https://github.com/Taishawnk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taishawnk/Tri_footer/issues"
+  },
+  "homepage": "https://github.com/Taishawnk/Tri_footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
